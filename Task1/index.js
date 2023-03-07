@@ -38,6 +38,15 @@ class item{
 		let itemBox = document.createElement('div');
 
 		itemBox.classList.add('item')
+		
+
+	
+let editButton = document.createElement('button')
+
+		editButton.innerHTML = "EDIT";
+	
+
+	
 
 		editButton.classList.add('editButton');
 
